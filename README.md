@@ -1,5 +1,7 @@
 ## The bash file is my own work, all the other files are part of the original author "Lorenzo Di Fuccia"
 
+#### The bash script will take a folder which contains multiple books in the format offered by the python script and extract only the .epub file with the name changed to the name of the book.
+
 ---
 # SafariBooks
 Download and generate *EPUB* of your favorite books from [*Safari Books Online*](https://www.safaribooksonline.com) library.  
