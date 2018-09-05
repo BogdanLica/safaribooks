@@ -1,3 +1,6 @@
+## The bash file is my own work, all the other files are part of the original author "Lorenzo Di Fuccia"
+
+---
 # SafariBooks
 Download and generate *EPUB* of your favorite books from [*Safari Books Online*](https://www.safaribooksonline.com) library.  
 I'm not responsible for the use of this program, this is only for *personal* and *educational* purpose.  
